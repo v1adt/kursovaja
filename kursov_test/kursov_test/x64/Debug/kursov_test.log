@@ -1,0 +1,3 @@
+﻿  kursov_test.cpp
+C:\Users\wladt\source\repos\kursov_test\kursov_test\kursov_test.cpp(95,17): warning C4834: удаление возвращаемого значения функции с атрибутом [[nodiscard]]
+  kursov_test.vcxproj -> C:\Users\wladt\source\repos\kursov_test\x64\Debug\kursov_test.exe
